@@ -152,3 +152,9 @@ MIT License
 - Air quality data: [OpenAQ](https://openaq.org)
 - Citizen sensors: AirGradient network
 - Government data: Polish Chief Inspectorate for Environmental Protection
+
+## Authors
+
+- Md.Karaamathullah sheriff
+- Data engineer
+- Mail : mdkaraamathullahsheriff@gmail.com
